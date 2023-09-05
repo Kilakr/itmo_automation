@@ -38,4 +38,4 @@ def func6(x,y):
     c = 0
     c = (x * 12 * 29) + (y*29)
     print(c)
-func6(4,5)
+func6(3,5)
