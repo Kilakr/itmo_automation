@@ -55,7 +55,7 @@ elif year >= 7 and year < 10:
 else:
     print ('Введите корректный год обучения')
 
-number = 55
+number = 57
 if number not in range (-100, 101):
     print('-')
 else:
