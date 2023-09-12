@@ -2,8 +2,10 @@ class Box:
     def __init__(self, h, w):
         self.h = h
         self.w = w
+
     def plo (self):
         print (self.h * self.w)
+
     def per (self):
         print ((2*self.h)+(2*self.w))
 
